@@ -6,7 +6,7 @@ Here is my course completion certificate from HyperionDev below:
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://www.dropbox.com/home/SK23020007210/Cyber%20Security%20(Fundamentals)/T23?di=left_nav_browse&preview=certi.JPG">
  <source media="(prefers-color-scheme: light)" srcset="https://www.dropbox.com/home/SK23020007210/Cyber%20Security%20(Fundamentals)/T23?di=left_nav_browse&preview=certi.JPG">
- <img alt="YOUR-ALT-TEXT" src="https://www.google.com">
+ <img alt="My Course Completion Certificate" src="https://www.google.com">
 </picture>
 
 - 🌱 I’m currently learning various penetration testing techniques to boost my profile in cybersecurity world. My aim is to learn deep in cyber security and help prevent the data loss or data theft. With AI emerging in the daily life, we need strong cyber security. I want to contribute towards it.
