@@ -1,6 +1,6 @@
 ### Welcome to my Github 👋
-I am Sunaina Mishra, a graduate from Osmania University in Hyderabad, India. I have 8+ years of working experience and skilled with,
-**Python, bash scripting, linux**. I have gained knowledge in various pentesting techniques like **Password Hunting, sub-domain hunting, finding website technologies, Google flu**, well euiped with **Kali Linux Commands**. I have completed various projects in my **HyperionDev Bootcamp** for cybersecurity. HyperionDev has helped in gaining required knowledge to strengthen the security systems of an organization.
+I am Sunaina Mishra, completed bootcamp on cybersecurity from HyperionDev. I have 8+ years of working experience and skilled with,
+**Python, bash scripting, XSS & linux**. I have gained knowledge in various pentesting techniques like **Password Hunting, sub-domain hunting, finding website technologies, Google flu**, well euiped with **Kali Linux Commands**. HyperionDev has helped in gaining required knowledge to strengthen the security systems of an organization.
 
 Here is my course completion certificate from HyperionDev below:
 <picture>
